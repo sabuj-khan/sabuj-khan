@@ -22,9 +22,5 @@ Skills: PHP / LARAVEL / WORDPRESS / MYSQL / JAVASCRIPT / JQUERY  / VUE JS  /  HT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabuj-khan&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sabuj-khan/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sabuj-khan)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sabuj-khan)  
 
