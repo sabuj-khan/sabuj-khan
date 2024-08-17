@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, I am Mohammad Sabuj Khan
+#### Full Stack Web Developer | Laravel Developer | WordPress Developer
+![Full Stack Web Developer | Laravel Developer | WordPress Developer](https://media.licdn.com/dms/image/D5616AQHgB2S3-S3_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1700998660019?e=1729123200&v=beta&t=SRf9Uihky66M5rZq5a16WmrHF2lI996I1-ckxzv84RY)
 
-<!--
-**sabuj-khan/sabuj-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full Stack Web Developer with a solid background in PHP, Laravel, MySQL, and WordPress. I specialize in building fluid, responsive web apps. I genuinely enjoy using JavaScript, jQuery, Vue JS, Bootstrap, CSS3, and HTML5 on the front end to create aesthetically pleasing, interactive user interfaces.
 
-Here are some ideas to get you started:
+Skills: PHP / LARAVEL / WORDPRESS / MYSQL / JAVASCRIPT / JQUERY  / VUE JS  /  HTML / CSS / BOOTSTRAP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Laravel and WordPress 
+- 🌱 I’m currently learning Laravel and WordPress 
+- 👯 I’m looking to collaborate on innovative Laravel applications, custom WordPress themes and plugins, and full-stack web development projects 
+- 🤔 I’m looking for help with contributing to open-source projects, collaborating on complex Laravel or WordPress projects 
+- 💬 Ask me about Laravel development, WordPress customization, full-stack web development, and  API integrations 
+- 📫 How to reach me: shobuj.khan1231@gmail.com 
+- 😄 Pronouns: He 
+- ⚡ Fun fact: I love to read books 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabuj-khan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-sabuj-khan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shobuj.khan.7505/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/ShobujSabuj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14521712/sabuj-khan)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabuj-khan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabuj-khan&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sabuj-khan/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/sabuj-khan)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sabuj-khan)  
+
