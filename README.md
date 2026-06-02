@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mohammad Sabuj Khan
 #### Full Stack Web Developer | Laravel Developer | WordPress Developer
-![Full Stack Web Developer | Laravel Developer | WordPress Developer](https://media.licdn.com/dms/image/D5616AQHgB2S3-S3_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1700998660019?e=1729123200&v=beta&t=SRf9Uihky66M5rZq5a16WmrHF2lI996I1-ckxzv84RY)
+![Full Stack Web Developer | Laravel Developer | WordPress Developer]()
 
 I am a passionate Full Stack Web Developer with a solid background in PHP, Laravel, MySQL, and WordPress. I specialize in building fluid, responsive web apps. I genuinely enjoy using JavaScript, jQuery, Vue JS, Bootstrap, CSS3, and HTML5 on the front end to create aesthetically pleasing, interactive user interfaces.
 
